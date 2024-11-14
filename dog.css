@@ -1,0 +1,174 @@
+body, h1, ul, li, a {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+}
+
+
+body {
+
+    height: 150vh;
+    font-family: Arial, sans-serif;
+    background-image:url(../img/cute-purebred-puppy-sitting-outdoors-looking-at-camera-generated-by-ai-free-photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #56575d;
+    color: white;
+    padding: 20px 0;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.logo h1 {
+    font-size: 24px;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#search-input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#search-button {
+    background-color: #090909;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+#search-button:hover {
+    background-color: #2f7206;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #eefa09;
+}
+/* General table styling */
+table.dog {
+    width: 97%;
+    border-collapse: collapse;
+    margin: 20px 20px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #f8fbf4;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    justify-content: center;
+}
+table.dog thead th {
+    border: 1px solid #dddddd; /* Added border for header cells */
+}
+
+/* Body rows styling */
+table.dog tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+/* Header styling */
+table.dog thead tr {
+   
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Cell padding */
+table.dog th, table.dog td {
+    padding: 12px 15px;
+    border: 1px solid #dddddd; /* Added border for table cells */
+}
+
+
+/* Image styling */
+table.dog img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+/* Button styling */
+table.dog button {
+    background-color: #009879;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+table.dog button:hover {
+    background-color: #007f67;
+}
+footer {
+    background-color: #5f5d5d;
+    padding: 1px 0;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 5px;
+}
+
+.footer-info {
+    text-align: left;
+}
+
+.footer-social a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fffbfb;
+}
+
+.footer-social a:hover {
+    text-decoration: underline;
+}
