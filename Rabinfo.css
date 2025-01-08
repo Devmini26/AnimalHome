@@ -86,7 +86,8 @@ nav ul li a:hover {
 }
 .dis{
     font-size:20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:Arial, sans-serif;
+    font-style: normal;
     color: rgb(10, 10, 10);
     display:flex;
     justify-content: center;
@@ -100,7 +101,7 @@ table.rabbit {
     border-collapse: collapse;
     margin: 20px 20px;
     font-size: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, sans-serif;
     color: #f8fbf4;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     justify-content: center;
@@ -125,7 +126,7 @@ table.rabbit img {
 }
 
 table.rabbit button {
-    background-color: #4CAF50;
+    background-color: #2f7206;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -139,7 +140,7 @@ table.rabbit button {
 }
 
 table.rabbit button:hover {
-    background-color: #45a049;
+    background-color: #4bab0f;
 }
 footer {
     background-color: #5f5d5d;

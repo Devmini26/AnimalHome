@@ -115,6 +115,10 @@ table.cat th, table.cat td {
     padding: 12px 15px;
     border: 1px solid #0d0d0d; /* Added border for table cells */
 }
+.price {
+    color: red;
+    font-weight: bold;
+}
 
 
 /* Image styling */
@@ -127,7 +131,7 @@ table.cat img {
 
 /* Button styling */
 table.cat button {
-    background-color: #009879;
+    background-color: #2f7206;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -141,7 +145,7 @@ table.cat button {
 }
 
 table.cat button:hover {
-    background-color: #007f67;
+    background-color: #4bab0f;
 }
 footer {
     background-color: #5f5d5d;

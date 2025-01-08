@@ -128,7 +128,7 @@ table.dog img {
 
 /* Button styling */
 table.dog button {
-    background-color: #009879;
+    background-color: #2f7206;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -142,7 +142,7 @@ table.dog button {
 }
 
 table.dog button:hover {
-    background-color: #007f67;
+    background-color: #4bab0f;
 }
 footer {
     background-color: #5f5d5d;
