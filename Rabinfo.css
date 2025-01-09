@@ -11,7 +11,7 @@ body {
 
     height: 150vh;
     font-family: Arial, sans-serif;
-    background-image:url(../img/cute-plush-rabbit-with-carrot-sits-soft-warm-lighting-background-blur_856565-292.jpg);
+    background-image:url(../img/wallpaper2you_380425.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -86,9 +86,9 @@ nav ul li a:hover {
 }
 .dis{
     font-size:20px;
-    font-family:Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: normal;
-    color: rgb(10, 10, 10);
+    color: rgb(244, 238, 238);
     display:flex;
     justify-content: center;
     align-items: center;
@@ -101,7 +101,7 @@ table.rabbit {
     border-collapse: collapse;
     margin: 20px 20px;
     font-size: 20px;
-    font-family: Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
     color: #f8fbf4;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     justify-content: center;
@@ -111,8 +111,9 @@ table.rabbit th, table.rabbit td {
     padding: 12px;
     border: 1px solid #f8f6f6;
     text-align: left;
-    color: #f8f6f6;
-    font-family:Arial, Helvetica, sans-serif;
+    color: #f3f6f6;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
 }
 
 table.rabbit th {
@@ -141,6 +142,10 @@ table.rabbit button {
 
 table.rabbit button:hover {
     background-color: #4bab0f;
+}
+.price{
+    color: rgb(190, 2, 2);
+    font-weight: bold;
 }
 footer {
     background-color: #5f5d5d;

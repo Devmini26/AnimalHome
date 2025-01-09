@@ -144,6 +144,10 @@ table.dog button {
 table.dog button:hover {
     background-color: #4bab0f;
 }
+.price{
+    color: rgb(221, 4, 4);
+    font-weight: bold;
+}
 footer {
     background-color: #5f5d5d;
     padding: 1px 0;

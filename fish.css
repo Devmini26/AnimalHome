@@ -11,7 +11,7 @@ body {
 
     height: 190vh;
     font-family: Arial, sans-serif;
-    background-image:url(../img/202766.jpg);
+    background-image:url(../img/45600-thumb-360-0.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -91,6 +91,7 @@ table.fish {
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #080808;
+    font-weight: bold;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     justify-content: center;
 }
@@ -131,6 +132,10 @@ table.fish button {
 }
 table.fish button:hover {
     background-color: #4bab0f;
+}
+.price{
+    color: rgb(145, 3, 3);
+    font-weight: bold;
 }
 footer {
     background-color: #5f5d5d;

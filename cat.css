@@ -116,7 +116,7 @@ table.cat th, table.cat td {
     border: 1px solid #0d0d0d; /* Added border for table cells */
 }
 .price {
-    color: red;
+    color: rgb(145, 3, 3);
     font-weight: bold;
 }
 
